@@ -24,7 +24,7 @@ export function Navbar() {
         <div className="gap-6 flex items-center ">
 
           {/* links */}
-          <a href="/" className="text-[#2C85FC] text-sm hidden md:block">
+          <a href="/" className="text-[#2C85FC] text-sm hidden md:block"> 
             Home
           </a>
           <a href="#" className="text-gray-100 text-sm hidden md:block">
